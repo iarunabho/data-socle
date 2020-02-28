@@ -7932,11 +7932,11 @@ img.floating-image-left {
 .content-left-container .content-box .iqtml-top-box .data1 .title {
   margin-bottom: 5px;
 }
-/* Style for padding header */
-p#slider-3-slide-3-layer-3 {
-  padding-top: 33px !important;
-}
-/* Get started Button padding */
 rs-layer#slider-3-slide-3-layer-28 {
-  padding-top: 32px !important;
+  padding-top: 35px !important;
+}
+@media only screen and (min-device-width: 1000px) {
+  h2#slider-3-slide-3-layer-1 {
+    font-size: 30px !important;
+  }
 }
