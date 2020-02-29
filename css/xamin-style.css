@@ -4067,7 +4067,7 @@ About style home-2
   height: 200px;
 }
 .xamin-process.xamin-circle .circle-effect {
-  border: 2px dashed #437eeb;
+  /* border: 2px dashed #437eeb; */
   width: 140px;
   height: 140px;
   border-radius: 90px;
@@ -4080,7 +4080,7 @@ About style home-2
   width: 120px;
   height: 120px;
   line-height: 120px;
-  border-radius: 90px;
+  /* border-radius: 90px; */
   background-image: -moz-linear-gradient(
     90deg,
     rgb(241, 243, 254) 0%,
