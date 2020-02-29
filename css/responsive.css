@@ -653,7 +653,7 @@
   }
   header.menu-sticky .main-header .navbar ul li a {
     line-height: normal;
-    text-align: left;
+    /* text-align: left; */
   }
   header.menu-sticky .main-header .navbar ul li:hover .sub-menu {
     top: 0;
